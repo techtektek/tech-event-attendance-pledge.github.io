@@ -1,4 +1,4 @@
-tech-event-attendance-pledge.github.io
+Tech Event Attendance Pledge
 ======================================
 
 This site is a barebones basic way to track people unwilling to attend events
