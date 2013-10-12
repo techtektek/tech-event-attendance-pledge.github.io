@@ -1,3 +1,0 @@
-# testing gh-pages
-
-testing
