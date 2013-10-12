@@ -15,12 +15,16 @@ clear code of conduct and/or anti-harassment policy:
 <br/>
 
 ## Resources
-* [Detailed recommendations and sample policies from the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment)
+* [Detailed recommendations from the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment)
 * Policies need to be clear, visible and actionable to be useful. All attendees at
   a given event should be aware of the policy and be able to easily reference it.
 * Policies need to be enforced. This means that event staff should be trained on
   the policy, have a plan for handling incidents, and be willing to enforce the
   policy if incidents occur.
+
+## Example policies
+* [Example anti-harassment policy from Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+* [Example code of conduct pulled from jsconf and the Ada Initiative](http://confcodeofconduct.com/)
 
 <br/>
 
