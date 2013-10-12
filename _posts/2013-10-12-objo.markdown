@@ -8,4 +8,5 @@ categories:
 The following people have pledged not to attend any tech events where Joe
 O'Brien (also known as objo) is in attendance:
 
-* [Julie Pagano](https://twitter.com/juliepagano/status/388839312558927872)
+* [Julie Pagano (@juliepagano)](https://twitter.com/juliepagano/status/388839312558927872)
+* [Aanand Prasad (@aanand)](https://twitter.com/aanand/status/389054922899337216)
