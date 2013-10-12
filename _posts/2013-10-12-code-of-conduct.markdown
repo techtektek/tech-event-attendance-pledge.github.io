@@ -9,6 +9,7 @@ The following people have pledged not to attend any tech events without a
 code of conduct and/or anti-harassment policy:
 
 * Julie Pagano (@juliepagano)
+* [Skud (@skud)](https://twitter.com/Skud/status/389158683235459072)
 
 <br/>
 
