@@ -6,7 +6,7 @@ categories:
 ---
 
 The following people have pledged not to attend any tech events where Joe
-O'Brien (also known as objo) is in attendance:
+O'Brien (also known as @objo) is in attendance:
 
 * [Julie Pagano (@juliepagano)](https://twitter.com/juliepagano/status/388839312558927872)
 * [Steve Klabnik (@steveklabnik)](https://twitter.com/steveklabnik/status/387731220664434690)
@@ -51,5 +51,8 @@ O'Brien (also known as objo) is in attendance:
 <br/>
 
 <h2>References:</h2>
+<p>Content/trigger warnings for sexual assault, rape culture in all links below.</p>
+* Primary account: [http://blogjustine.wordpress.com/2013/10/12/because-it-needs-to-be-said/](http://blogjustine.wordpress.com/2013/10/12/because-it-needs-to-be-said/)
+* Secondary account: [http://theotherzach.com/writes/2013/10/9/events](http://theotherzach.com/writes/2013/10/9/events)
+* Secondary account: [http://blog.matt-darby.com/essays/i-am-the-other-developer](http://blog.matt-darby.com/essays/i-am-the-other-developer)
 
-* Blog post: [http://blogjustine.wordpress.com/2013/10/12/because-it-needs-to-be-said/](http://blogjustine.wordpress.com/2013/10/12/because-it-needs-to-be-said/) (Content notice for sexual assault)
