@@ -9,7 +9,7 @@ The following people have pledged not to attend any tech events without a
 code of conduct and/or anti-harassment policy:
 
 * Julie Pagano (@juliepagano)
-
+* [Bruce Adams (@Bruce_Adams)](https://twitter.com/Bruce_Adams)
 <br/>
 
 ## Resources
