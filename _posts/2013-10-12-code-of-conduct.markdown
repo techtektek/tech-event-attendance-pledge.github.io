@@ -4,7 +4,6 @@ title:  "Code of Conduct"
 date:   2013-10-12 11:11:52
 categories:
 ---
-
 The following people have pledged not to attend any tech events without a
 clear code of conduct and/or anti-harassment policy:
 
@@ -16,6 +15,13 @@ clear code of conduct and/or anti-harassment policy:
 * Alex Gaynor (@alex_gaynor)
 
 <br/>
+
+**Note:** We encourage conferences to add a code of conduct or
+anti-harassment policy. Non-attendance is a method of last resort if organizers
+are unwilling to do so. There are resources on this page to help you
+get started. Please reach out if you need help creating a policy. There are many
+people who will volunteer to assist you.
+
 
 ## Similar lists
 
