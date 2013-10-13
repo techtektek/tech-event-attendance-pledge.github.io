@@ -22,6 +22,14 @@ are unwilling to do so. There are resources on this page to help you
 get started. Please reach out if you need help creating a policy. There are many
 people who will volunteer to assist you.
 
+## Organizations
+
+The following organizations have pleged not to sponsor conferences which
+don't hvae a clear code of conduct and/or anti-harassment policy:
+
+* [Django Software Foundation](https://www.djangoproject.com/foundation/code-of-conduct/)
+* [Python Software Foundation](http://pyfound.blogspot.hu/2012/12/psf-moves-to-require-code-of-conduct.html)
+
 
 ## Similar lists
 
