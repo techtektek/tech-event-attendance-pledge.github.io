@@ -12,8 +12,13 @@ clear code of conduct and/or anti-harassment policy:
 * [Skud (@skud)](https://twitter.com/Skud/status/389158683235459072)
 * [Bruce Adams (@Bruce_Adams)](https://twitter.com/Bruce_Adams)
 * Andreas M. Antonopoulos (@aantonop)
+* Alex Gaynor (@alex_gaynor)
 
 <br/>
+
+## Similar lists
+
+* [Let's Get Louder](http://letsgetlouder.com)
 
 ## Resources
 * [Detailed recommendations from the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment)
@@ -31,4 +36,4 @@ clear code of conduct and/or anti-harassment policy:
 
 ## Examples of conferences with policies
 * [Steel City Ruby Conf](http://steelcityruby.org/policies.html#antiharassment-policy)
-* [Pycon](https://us.pycon.org/2014/about/code-of-conduct/)
+* [PyCon](https://us.pycon.org/2014/about/code-of-conduct/)
