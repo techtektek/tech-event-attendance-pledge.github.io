@@ -8,6 +8,7 @@ categories:
 The following people have pledged not to attend any tech events without a
 clear code of conduct and/or anti-harassment policy:
 
+* Ben Scofield (@bscofield)
 * Julie Pagano (@juliepagano)
 * [Skud (@skud)](https://twitter.com/Skud/status/389158683235459072)
 * [Bruce Adams (@Bruce_Adams)](https://twitter.com/Bruce_Adams)
