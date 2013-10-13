@@ -5,6 +5,10 @@ date:   2013-10-12 11:11:52
 categories:
 ---
 
+Note: This list may be changed or modified at any time based on the feelings of
+the signatories and changes in the situation. It is intended to reflect the
+current situation, not to be written in stone forever.
+
 The following people have pledged not to attend any tech events where Joe
 O'Brien (also known as @objo) is in attendance:
 
