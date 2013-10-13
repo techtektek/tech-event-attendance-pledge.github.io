@@ -14,6 +14,7 @@ clear code of conduct and/or anti-harassment policy:
 * Andreas M. Antonopoulos (@aantonop)
 * Alex Gaynor (@alex_gaynor)
 * Jeremy Dunck (@jdunck)
+* Sam Kimbrel (@skimbrel)
 
 <br/>
 
