@@ -13,6 +13,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Bruce Adams (@Bruce_Adams)](https://twitter.com/Bruce_Adams)
 * Andreas M. Antonopoulos (@aantonop)
 * Alex Gaynor (@alex_gaynor)
+* Jeremy Dunck (@jdunck)
 
 <br/>
 
