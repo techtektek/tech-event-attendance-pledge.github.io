@@ -16,6 +16,7 @@ clear code of conduct and/or anti-harassment policy:
 * Jeremy Dunck (@jdunck)
 * Sam Kimbrel (@skimbrel)
 * Amelia Cuss (@kivikakk)
+* Jacob Mitchell (@mekajfire)
 
 <br/>
 
@@ -28,7 +29,7 @@ people who will volunteer to assist you.
 ## Organizations
 
 The following organizations have pleged not to sponsor conferences which
-don't hvae a clear code of conduct and/or anti-harassment policy:
+don't have a clear code of conduct and/or anti-harassment policy:
 
 * [Django Software Foundation](https://www.djangoproject.com/foundation/code-of-conduct/)
 * [Python Software Foundation](http://pyfound.blogspot.hu/2012/12/psf-moves-to-require-code-of-conduct.html)
