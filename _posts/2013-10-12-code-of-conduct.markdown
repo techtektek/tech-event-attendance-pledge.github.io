@@ -17,7 +17,7 @@ clear code of conduct and/or anti-harassment policy:
 * Sam Kimbrel (@skimbrel)
 * Amelia Cuss (@kivikakk)
 * Jacob Mitchell (@mekajfire)
-
+* Beth Binkovitz (@bbinkovitz)
 <br/>
 
 **Note:** We encourage conferences to add a code of conduct or
