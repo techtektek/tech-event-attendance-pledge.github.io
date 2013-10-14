@@ -62,6 +62,7 @@ O'Brien (also known as @objo) is in attendance:
 * [Jake Boxer (@jakeboxer)](https://twitter.com/jakeboxer/status/389537395420307456)
 * [Amelia Cuss (@kivikakk)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/44)
 * [Jon Dean (@jonathanedean)](https://twitter.com/jonathanedean/status/389560388607430656)
+* [Zander Hill (@_ZPH)](https://github.com/janogonzalez/tech-event-attendance-pledge.github.io)
 <br/>
 
 <h2>References:</h2>
