@@ -21,6 +21,7 @@ clear code of conduct and/or anti-harassment policy:
 * James Gary (@james_gary)
 * [Florian Gilcher (@argorak)](https://twitter.com/Argorak)
 * [Tim Cowlishaw (@mistertim)](https://twitter.com/mistertim)
+* [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/59)
 
 <br/>
 

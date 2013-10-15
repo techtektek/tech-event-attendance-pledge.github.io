@@ -32,7 +32,7 @@ O'Brien (also known as @objo) is in attendance:
 * [Julie Hayes (@J_E_Hayes)](https://twitter.com/J_E_Hayes/status/389070512858464256)
 * [Decklin Foster (@decklin)](https://twitter.com/decklin/status/389073806087573505)
 * [Courtney Stanton (@q0rt)](https://twitter.com/q0rt/status/389065553580933120)
-* [Paul Visscher (@paulv)] (https://twitter.com/paulv/status/387735574909423616)
+* [Paul Visscher (@paulv)](https://twitter.com/paulv/status/387735574909423616)
 * [Jackson Mohsenin (@jmohsenin)](https://twitter.com/jmohsenin/status/389084099446464512)
 * [Carina C. Zona (@cczona)](https://twitter.com/cczona/status/389085966905786368)
 * [Brad Grzesiak (@listrophy)](https://twitter.com/listrophy/status/387758367160025088)
@@ -72,6 +72,7 @@ O'Brien (also known as @objo) is in attendance:
 * [Florian Gilcher](https://twitter.com/Argorak)
 * [Stephen Watters (@memphis518)](https://twitter.com/memphis518/status/389766921471545346)
 * [Dustin Farris (@dustinfarris)](https://twitter.com/dustinfarris/status/389798541985861632)
+* [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/59)
 
 <br/>
 
