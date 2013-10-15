@@ -20,6 +20,7 @@ clear code of conduct and/or anti-harassment policy:
 * Beth Binkovitz (@bbinkovitz)
 * James Gary (@james_gary)
 * [Florian Gilcher (@argorak)](https://twitter.com/Argorak)
+* [Tim Cowlishaw (@mistertim)](https://twitter.com/mistertim)
 
 <br/>
 
