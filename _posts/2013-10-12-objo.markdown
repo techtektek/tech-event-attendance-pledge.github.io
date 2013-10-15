@@ -6,8 +6,10 @@ categories:
 ---
 
 Note: This list may be changed or modified at any time based on the feelings of
-the signatories and changes in the situation. It is intended to reflect the
-current situation, not to be written in stone forever.
+the signatories and changes in the situation. It was implemented as a temporary
+stop-gap measure until the community develops a better process for
+accountability that will make it unnecessary. When the list becomes
+unnecessary because a better process is in place, it will be removed.
 
 The following people have pledged not to attend any tech events where Joe
 O'Brien (also known as @objo) is in attendance:
