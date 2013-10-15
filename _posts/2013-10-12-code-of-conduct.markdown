@@ -19,6 +19,8 @@ clear code of conduct and/or anti-harassment policy:
 * Jacob Mitchell (@mekajfire)
 * Beth Binkovitz (@bbinkovitz)
 * James Gary (@james_gary)
+* [Florian Gilcher (@argorak)](https://twitter.com/Argorak)
+
 <br/>
 
 **Note:** We encourage conferences to add a code of conduct or
@@ -51,9 +53,10 @@ don't have a clear code of conduct and/or anti-harassment policy:
 ## Example policies
 * [Example anti-harassment policy from Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [Example code of conduct pulled from jsconf and the Ada Initiative](http://confcodeofconduct.com/)
-
+* [Example staff procedure from pycon](https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md)
 <br/>
 
 ## Examples of conferences with policies
 * [Steel City Ruby Conf](http://steelcityruby.org/policies.html#antiharassment-policy)
 * [PyCon](https://us.pycon.org/2014/about/code-of-conduct/)
+* [eurucamp](http://eurucamp.org/policies)
