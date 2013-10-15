@@ -20,7 +20,7 @@ clear code of conduct and/or anti-harassment policy:
 * Beth Binkovitz (@bbinkovitz)
 * James Gary (@james_gary)
 * [Florian Gilcher (@argorak)](https://twitter.com/Argorak)
-* [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/60)
+* [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/59)
 
 <br/>
 
