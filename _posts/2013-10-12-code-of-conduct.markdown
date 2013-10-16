@@ -24,6 +24,7 @@ clear code of conduct and/or anti-harassment policy:
 * Kairi Izumi (@ibutsu)
 * [Coda Hale](https://twitter.com/coda)
 * [Dominic Dagradi (@dddagradi)](https://twitter.com/dddagradi)
+* Lindsey Bieda (@lindseybieda)
 
 <br/>
 
