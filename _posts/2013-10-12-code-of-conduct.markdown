@@ -34,7 +34,7 @@ people who will volunteer to assist you.
 
 ## Organizations
 
-The following organizations have pleged not to sponsor conferences which
+The following organizations have pledged not to sponsor conferences which
 don't have a clear code of conduct and/or anti-harassment policy:
 
 * [Django Software Foundation](https://www.djangoproject.com/foundation/code-of-conduct/)
