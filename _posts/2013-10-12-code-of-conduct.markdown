@@ -22,6 +22,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Tim Cowlishaw (@mistertim)](https://twitter.com/mistertim)
 * [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/59)
 * Kairi Izumi (@ibutsu)
+* [Coda Hale](https://twitter.com/coda)
 
 <br/>
 
