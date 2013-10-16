@@ -23,6 +23,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/59)
 * Kairi Izumi (@ibutsu)
 * [Coda Hale](https://twitter.com/coda)
+* [Dominic Dagradi (@dddagradi)](https://twitter.com/dddagradi)
 
 <br/>
 
