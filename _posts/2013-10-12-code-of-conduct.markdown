@@ -10,7 +10,6 @@ clear code of conduct and/or anti-harassment policy:
 * Ben Scofield (@bscofield)
 * Julie Pagano (@juliepagano)
 * [Skud (@skud)](https://twitter.com/Skud/status/389158683235459072)
-* [Bruce Adams (@Bruce_Adams)](https://twitter.com/Bruce_Adams)
 * Andreas M. Antonopoulos (@aantonop)
 * Alex Gaynor (@alex_gaynor)
 * Jeremy Dunck (@jdunck)
@@ -23,6 +22,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Tim Cowlishaw (@mistertim)](https://twitter.com/mistertim)
 * [Aki Rose (@gesa)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/59)
 * Kairi Izumi (@ibutsu)
+* [Coda Hale](https://twitter.com/coda)
 
 <br/>
 
@@ -34,7 +34,7 @@ people who will volunteer to assist you.
 
 ## Organizations
 
-The following organizations have pleged not to sponsor conferences which
+The following organizations have pledged not to sponsor conferences which
 don't have a clear code of conduct and/or anti-harassment policy:
 
 * [Django Software Foundation](https://www.djangoproject.com/foundation/code-of-conduct/)
