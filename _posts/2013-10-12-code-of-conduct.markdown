@@ -25,6 +25,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Coda Hale](https://twitter.com/coda)
 * [Dominic Dagradi (@dddagradi)](https://twitter.com/dddagradi)
 * Lindsey Bieda (@lindseybieda)
+* [Tim Chevalier (@eassumption)](http://tim.dreamwidth.org/1830367.html)
 
 <br/>
 
