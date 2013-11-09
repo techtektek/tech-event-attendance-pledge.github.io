@@ -26,6 +26,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Dominic Dagradi (@dddagradi)](https://twitter.com/dddagradi)
 * Lindsey Bieda (@lindseybieda)
 * [Tim Chevalier (@eassumption)](http://tim.dreamwidth.org/1830367.html)
+* [Dimas Guardado](https://twitter.com/dimasguardado)
 
 <br/>
 
