@@ -29,6 +29,7 @@ clear code of conduct and/or anti-harassment policy:
 * [Dimas Guardado](https://twitter.com/dimasguardado)
 * [Greg Ward](https://twitter.com/gergdotca)
 * [Brian Merritt](https://twitter.com/btmerr)
+* [Brad Grzesiak](https://twitter.com/listrophy)
 
 <br/>
 
