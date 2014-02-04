@@ -14,7 +14,7 @@ clear code of conduct and/or anti-harassment policy:
 * Alex Gaynor (@alex_gaynor)
 * Jeremy Dunck (@jdunck)
 * Sam Kimbrel (@skimbrel)
-* Amelia Cuss (@kivikakk)
+* Yuki Izumi (@kivikakk)
 * Jacob Mitchell (@mekajfire)
 * Beth Binkovitz (@bbinkovitz)
 * James Gary (@james_gary)
