@@ -61,7 +61,7 @@ O'Brien (also known as @objo) is in attendance:
 * [Jano González (@janogonzalez)](https://github.com/janogonzalez/tech-event-attendance-pledge.github.io)
 * [Rein Henrichs (@reinh)](https://twitter.com/reinh/status/389469218132856832)
 * [Sam Kimbrel (@skimbrel)](https://twitter.com/skimbrel/status/389492536047177728)
-* [Amelia Cuss (@kivikakk)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/44)
+* [Yuki Izumi (@kivikakk)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/44)
 * [Jon Dean (@jonathanedean)](https://twitter.com/jonathanedean/status/389560388607430656)
 * [Jacob Mitchell (@mekajfire)](https://twitter.com/mekajfire/status/389594040498278400)
 * [Zander Hill (@_ZPH)](https://github.com/tech-event-attendance-pledge/tech-event-attendance-pledge.github.io/pull/47)
